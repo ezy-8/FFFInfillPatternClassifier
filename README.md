@@ -77,15 +77,10 @@ python scripts/process_gcode.py --input file.gcode --analyze
 - **G-code Analysis:** Parsing and feature extraction from printer instructions
 
 ### Machine Learning Approach
-[Add details about your specific algorithms, models, and classification categories]
 
 ## Results & Performance
 
-[Add performance metrics, accuracy scores, confusion matrices, etc.]
-
 ## Infill Patterns Supported
-
-- [List specific patterns your classifier handles, e.g., Grid, Honeycomb, Gyroid, etc.]
 
 ## Future Work
 
@@ -95,14 +90,6 @@ python scripts/process_gcode.py --input file.gcode --analyze
 - [ ] Cross-material validation
 
 ## References & Relevant Work
-
-[Add citations to relevant FFF printing and machine learning papers]
-
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0, etc.]
-
-## Contact & Questions
 
 For questions or collaboration inquiries, please open an issue or contact the team.
 
